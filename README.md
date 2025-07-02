@@ -47,6 +47,6 @@ Ao longo do desafio, explorei conceitos como:
 
 **Classes:** Para implementar essas interfaces e representar o "iPhone" em si, orquestrando as diferentes funcionalidades.
 
-**Encapsulamento: ** Garantindo que cada parte do sistema tenha suas responsabilidades bem definidas.
+**Encapsulamento:** Garantindo que cada parte do sistema tenha suas responsabilidades bem definidas.
 
 **Este desafio foi uma excelente oportunidade para aprimorar minhas habilidades em modelagem de software e traduzir requisitos de negócio (apresentados no vídeo de lançamento) em um design de código robusto e claro.**
